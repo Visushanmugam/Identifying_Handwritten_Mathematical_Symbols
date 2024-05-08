@@ -1,0 +1,11 @@
+LICENCE
+README.md
+setup.py
+Mathematical_Symbol_Model.egg-info/PKG-INFO
+Mathematical_Symbol_Model.egg-info/SOURCES.txt
+Mathematical_Symbol_Model.egg-info/dependency_links.txt
+Mathematical_Symbol_Model.egg-info/requires.txt
+Mathematical_Symbol_Model.egg-info/top_level.txt
+src/__init__.py
+src/model_test.py
+src/model_train.py

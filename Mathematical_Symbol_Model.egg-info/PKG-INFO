@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Mathematical_Symbol_Model
+Version: 0.0.1
+Author: Visu
+Author-email: visu@visha.xyz
+License-File: LICENCE
+Requires-Dist: numpy
