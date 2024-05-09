@@ -1,4 +1,6 @@
 pylint
-
+keras
+flask
+tensorflow
 
 -e .
